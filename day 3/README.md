@@ -10,3 +10,6 @@
     5.1. Also properly style the dials;
 6. Style clock with additional features;
 7. Adapt the analog clock for Lab work 3.
+Result:
+![greafer-clock](Clock-blue.png)
+![spk-clock](Clock-dark.png)
