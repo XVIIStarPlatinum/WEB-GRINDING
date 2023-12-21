@@ -28,7 +28,7 @@ function displayTime(){
     let ss = date.getSeconds();
 
     let hRotation = 30*hh + mm/2;
-    let mRotation = 6*mm;
+    let mRotation = 6*mm + ss/10;
     let sRotation = 6*ss;
 
     handHours.style.transform = `rotate(${hRotation}deg)`;
